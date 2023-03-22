@@ -1,6 +1,6 @@
 {
-    "name": "linux_q_system",
-    "short_name": "linux_q_system",
+    "name": "q_system_linux_final",
+    "short_name": "q_system_linux_final",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
